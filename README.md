@@ -2,10 +2,8 @@
 The Mod Manager standalone is designed to help you install, manage, update, and organize your Project Zomboid or even other game mods in a user-friendly interface. It allows you to enable/disable mods, edit mod details, check for updates, and even download mods directly from the Steam Workshop.
 
 - Modix Server Manager
-  
 https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - Discord
-  
 https://discord.gg/EwWZUSR9tM
 ==========================================================================================================
 
