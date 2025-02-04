@@ -102,4 +102,4 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 
 IMPORTANT NOTICE:
 
-The Modix tool is copyrighted and unauthorized redistribution or sharing is strictly prohibited. All mod-related content must remain within official channels.
+The Mod Manager by Modix: Server Manager is copyrighted and unauthorized redistribution or sharing is strictly prohibited. All mod-related content must remain within official channels.
