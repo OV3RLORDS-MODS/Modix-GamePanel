@@ -8,6 +8,8 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
 ==========================================================================================================
 
+- Mod Manager Features: 
+
 🔹 Mod Manager 
 
 ✔️ Enable/Disable Mods – Toggle mods on/off.
