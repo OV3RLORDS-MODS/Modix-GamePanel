@@ -6,7 +6,7 @@ The Mod Manager standalone is designed to help you install, manage, update, and 
 You can check out my full sever manager same login details will work :)
 https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
-=======================================================================================================================================================================================================
+=====================================================================================================
 
 🔹 Mod Manager 
 
