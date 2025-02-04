@@ -5,7 +5,7 @@ The Mod Manager standalone is designed to help you install, manage, update, and 
 https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - Discord
 https://discord.gg/EwWZUSR9tM
-=======================================================================================
+=============================================================
 ![](https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png)
 =======================================================================================
 
