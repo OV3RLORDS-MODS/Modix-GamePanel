@@ -10,6 +10,8 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
 🔹 Mod Manager 
 
+Easily install, manage, update, and organize your Project Zomboid mods!
+
 ✔️ Enable/Disable Mods – Toggle mods on/off.
 
 ✔️ Download Mods – Enter a Workshop ID to grab mods instantly.
@@ -71,6 +73,8 @@ Easily extract Workshop IDs from Steam Collections for quick mod management!
 =========================================================================================================
 
 🔹 Map Editor 
+
+Easily edit, merge, and package custom maps for Project Zomboid!
 
 ✔️ Load Map Files – Select and manage multiple objects.lua and .lotheader files.
 
