@@ -30,3 +30,16 @@ Update Availability
   
 Use the Search bar to find specific mods quickly.
 Favorite mods are marked with a ★.
+
+- Menu
+
+Use the top menu of access other parts of my GUI such as:
+
+Mod Builder
+Lua Editor
+Steam Parser
+Map  Editor 
+Modpack Builder 
+Debugger
+
+===
