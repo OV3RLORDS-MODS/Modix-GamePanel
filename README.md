@@ -27,6 +27,6 @@ Favorite Status
 Update Availability
 
 - Search & Filters
-- 
+  
 Use the Search bar to find specific mods quickly.
 Favorite mods are marked with a ★.
