@@ -24,6 +24,8 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
 🔗 Workshop Integration – Open mod pages, check updates, and install mods with ease!
 
+==========================================================================================================
+
 🔹 Lua Editor 
 
 ✔️ Syntax Highlighting – Lua keywords, comments, and strings are color-coded.
@@ -38,6 +40,8 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
 ✔️ Workshop Modding – Load example scripts and access modding documentation.
 
+==========================================================================================================
+
 🔹 Mod Builder
 
 ✔️ Create Mods Instantly – Build item mods with step-by-step customization.
@@ -49,6 +53,8 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 ✔️ Test & Validate Mods – Ensure your mods are ready for use.
 
 ✔️ Upload to Workshop – Publish mods directly to Steam Workshop.
+
+==========================================================================================================
 
 🔹 Steam Parser:
 
