@@ -32,12 +32,9 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
 ✔️ Upload to Workshop – Publish mods directly to Steam Workshop.
 
-🚀 Start modding now and bring your ideas to Project Zomboid!
+🔹 Steam Parser:
 
-Project Zomboid Steam Collection Parser - Quick Guide 🔍
 Easily extract Workshop IDs from Steam Collections for quick mod management!
-
-🔹 Steam Parser
 
 ✔️ Parse Steam Collections – Extract all mod IDs from a given collection URL.
 
