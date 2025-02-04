@@ -7,6 +7,7 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 https://discord.gg/EwWZUSR9tM
 =======================================================================================
 ![](https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png)
+=======================================================================================
 
 🔹 Mod Manager 
 
@@ -28,7 +29,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 
 =======================================================================================
 ![](https://i.ibb.co/JW2V4fjL/Screenshot-2025-02-04-9-21-17-PM.png)
-
+=======================================================================================
 🔹 Lua Editor 
 
 ✔️ Syntax Highlighting – Lua keywords, comments, and strings are color-coded.
@@ -45,6 +46,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 
 =======================================================================================
 ![](https://i.ibb.co/Jw071NVK/Screenshot-2025-02-04-9-24-11-PM.png)
+=======================================================================================
 
 🔹 Mod Builder
 
@@ -60,6 +62,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 
 =======================================================================================
 ![](https://i.ibb.co/kFRDpjk/Screenshot-2025-02-04-9-25-13-PM.png)
+=======================================================================================
 
 🔹 Steam Parser:
 
@@ -73,8 +76,9 @@ Easily extract Workshop IDs from Steam Collections for quick mod management!
 
 🔗 Direct Steam Integration – Works with Steam Workshop collections for easy mod handling.
 
-=========================================================================================================
+=======================================================================================
 ![](https://i.ibb.co/N2ZYnc4s/Screenshot-2025-02-04-9-26-08-PM.png)
+=======================================================================================
 
 🔹 Map Editor 
 
@@ -87,7 +91,10 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 ✔️ Generate .lotheader Files – Automatically create mod-compatible .lotheader files.
 
 ✔️ Preview Output – View merged map content before saving.
+
+=======================================================================================
 ![]([https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png](https://i.ibb.co/4ZtpcjMF/Screenshot-2025-02-04-9-38-11-PM.png))
+=======================================================================================
 
 🔹 Modpack Builder  
 
@@ -103,6 +110,7 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 
 =======================================================================================
 ![](https://i.ibb.co/MDX4Cpkg/Screenshot-2025-02-04-9-27-12-PM.png)
+=======================================================================================
 
 🔹 Debugger 
 
