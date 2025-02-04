@@ -4,43 +4,25 @@ The Mod Manager standalone is designed to help you install, manage, update, and 
 Modix: Modix Server Manager - You can check out my full sever manager same login details will work :)
 https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
-=== HOW TO USE ===
+🔹 Mod Manager
 
-- Launch the Mod Manager
+✔️ Enable/Disable Mods – Toggle mods on/off.
+✔️ Download Mods – Enter a Workshop ID to grab mods instantly.
+✔️ Check for Updates – Stay up to date with the latest versions.
+✔️ Edit Mod Details – Modify title, creator, version, and more.
+✔️ File Explorer – Manage mod files directly.
+✔️ Generate Mod List – Quickly create a mod list for servers.
+🔗 Workshop Integration – Open mod pages, check updates, and install mods with ease!
 
-Open the application by running the script and create account which is free and aferwards the GUI will show up. 
+Project Zomboid Mod Builder - Quick Guide 🛠️
+Easily create, edit, and package Project Zomboid mods with a user-friendly builder!
 
-- Set Up Your Mods Folder
+🔹 Mod Builder
 
-Click on "Select Mods Folder" to set the location where your mods are stored.
-If you use Steam Workshop mods, also set the "Workshop Folder" location.
+✔️ Create Mods Instantly – Build item mods with step-by-step customization.
+✔️ Edit Mod Details – Customize mod info, scripts, dependencies, and more.
+✔️ Package & Backup – Package your mods into ZIPs or create backups.
+✔️ Test & Validate Mods – Ensure your mods are ready for use.
+✔️ Upload to Workshop – Publish mods directly to Steam Workshop.
 
-- Mod List
-
-The left panel displays all available mods, showing:
-
-Mod Name
-Version
-Status (Enabled/Disabled)
-Source (Workshop or Manual)
-Workshop ID
-Favorite Status
-Update Availability
-
-- Search & Filters
-  
-Use the Search bar to find specific mods quickly.
-Favorite mods are marked with a ★.
-
-- Menu
-
-Use the top menu of access other parts of my GUI such as:
-
-- Mod Builder
-- Lua Editor
-- Steam Parser
-- Map  Editor 
-- Modpack Builder 
-- Debugger
-
-===
+🚀 Start modding now and bring your ideas to Project Zomboid!
