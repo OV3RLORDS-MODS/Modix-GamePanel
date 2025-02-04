@@ -28,7 +28,9 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 🔗 Workshop Integration – Open mod pages, check updates, and install mods with ease!
 
 =======================================================================================
+
 ![](https://i.ibb.co/JW2V4fjL/Screenshot-2025-02-04-9-21-17-PM.png)
+
 =======================================================================================
 🔹 Lua Editor 
 
