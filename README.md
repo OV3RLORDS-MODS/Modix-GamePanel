@@ -6,7 +6,7 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - Discord
 https://discord.gg/EwWZUSR9tM
 =======================================================================================
-![My Image](https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png)
+!(https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png)
 
 🔹 Mod Manager 
 
@@ -27,6 +27,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 🔗 Workshop Integration – Open mod pages, check updates, and install mods with ease!
 
 =======================================================================================
+!(https://i.ibb.co/JW2V4fjL/Screenshot-2025-02-04-9-21-17-PM.png)
 
 🔹 Lua Editor 
 
