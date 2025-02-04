@@ -20,9 +20,6 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 
 🔗 Workshop Integration – Open mod pages, check updates, and install mods with ease!
 
-Project Zomboid Mod Builder - Quick Guide 🛠️
-Easily create, edit, and package Project Zomboid mods with a user-friendly builder!
-
 🔹 Mod Builder
 
 ✔️ Create Mods Instantly – Build item mods with step-by-step customization.
@@ -36,3 +33,15 @@ Easily create, edit, and package Project Zomboid mods with a user-friendly build
 ✔️ Upload to Workshop – Publish mods directly to Steam Workshop.
 
 🚀 Start modding now and bring your ideas to Project Zomboid!
+
+Project Zomboid Steam Collection Parser - Quick Guide 🔍
+Easily extract Workshop IDs from Steam Collections for quick mod management!
+
+🔹 Steam Parser
+
+✔️ Parse Steam Collections – Extract all mod IDs from a given collection URL.
+✔️ Copy Results – Quickly copy the parsed Workshop IDs to use in your server settings.
+✔️ Fast & Simple – Just enter the URL, click parse, and get your results instantly!
+
+🔗 Direct Steam Integration – Works with Steam Workshop collections for easy mod handling.
+
