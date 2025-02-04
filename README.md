@@ -68,3 +68,12 @@ Easily extract Workshop IDs from Steam Collections for quick mod management!
 
 🔗 Direct Steam Integration – Works with Steam Workshop collections for easy mod handling.
 
+🔹 Map Editor 
+
+✔️ Load Map Files – Select and manage multiple objects.lua and .lotheader files.
+
+✔️ Merge Maps – Combine multiple modded maps into a single playable map.
+
+✔️ Generate .lotheader Files – Automatically create mod-compatible .lotheader files.
+
+✔️ Preview Output – View merged map content before saving.
