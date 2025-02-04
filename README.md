@@ -40,7 +40,9 @@ Easily extract Workshop IDs from Steam Collections for quick mod management!
 🔹 Steam Parser
 
 ✔️ Parse Steam Collections – Extract all mod IDs from a given collection URL.
+
 ✔️ Copy Results – Quickly copy the parsed Workshop IDs to use in your server settings.
+
 ✔️ Fast & Simple – Just enter the URL, click parse, and get your results instantly!
 
 🔗 Direct Steam Integration – Works with Steam Workshop collections for easy mod handling.
