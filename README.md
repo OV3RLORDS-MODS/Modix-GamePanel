@@ -6,7 +6,8 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - Discord
 https://discord.gg/EwWZUSR9tM
 =======================================================================================
-!(https://i.ibb.co/XXXXX/image.png)
+![My Image](https://i.ibb.co/XXXXX/image.png)
+
 
 🔹 Mod Manager 
 
