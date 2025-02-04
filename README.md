@@ -83,3 +83,17 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 ✔️ Generate .lotheader Files – Automatically create mod-compatible .lotheader files.
 
 ✔️ Preview Output – View merged map content before saving.
+
+=========================================================================================================
+
+🔹 Debugger 
+
+✔️ Load Logs – Scan console.txt, logs.zip, or an entire server directory.
+
+✔️ Error Detection – Detect critical errors, warnings, and minor issues with color-coded priority levels.
+
+✔️ Filtering & Search – Filter errors by priority and keywords for quick debugging.
+
+✔️ Error Details & Fixes – View detailed explanations and suggested fixes for common issues.
+
+✔️ Export & Refresh – Save error reports and reload logs instantly.
