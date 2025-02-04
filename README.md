@@ -36,10 +36,15 @@ Favorite mods are marked with a ★.
 Use the top menu of access other parts of my GUI such as:
 
 Mod Builder
+
 Lua Editor
+
 Steam Parser
+
 Map  Editor 
+
 Modpack Builder 
+
 Debugger
 
 ===
