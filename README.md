@@ -5,7 +5,7 @@ The Mod Manager standalone is designed to help you install, manage, update, and 
 https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - Discord
 https://discord.gg/EwWZUSR9tM
-========================================================================================
+=======================================================================================
 
 🔹 Mod Manager 
 
@@ -25,7 +25,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 
 🔗 Workshop Integration – Open mod pages, check updates, and install mods with ease!
 
-==========================================================================================================
+=======================================================================================
 
 🔹 Lua Editor 
 
@@ -41,7 +41,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 
 ✔️ Workshop Modding – Load example scripts and access modding documentation.
 
-==========================================================================================================
+=======================================================================================
 
 🔹 Mod Builder
 
@@ -55,7 +55,7 @@ Easily install, manage, update, and organize your Project Zomboid mods!
 
 ✔️ Upload to Workshop – Publish mods directly to Steam Workshop.
 
-==========================================================================================================
+=======================================================================================
 
 🔹 Steam Parser:
 
@@ -83,7 +83,7 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 
 ✔️ Preview Output – View merged map content before saving.
 
-=========================================================================================================
+=======================================================================================
 
 🔹 Debugger 
 
