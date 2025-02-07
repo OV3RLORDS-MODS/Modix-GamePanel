@@ -15,7 +15,9 @@ https://discord.gg/EwWZUSR9tM
 Obtain the ModManager.exe file from my official github.
 
 ✔️ Right-click on the ModManager.exe file.
+
 ✔️ Select "Create shortcut" and drag the shortcut to your desktop for easier access.
+
 ✔️ No Installation Needed:
 
 The application is self-contained. You can run it directly without installing any additional software.
