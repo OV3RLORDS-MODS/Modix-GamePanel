@@ -7,6 +7,19 @@ https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - Discord
 https://discord.gg/EwWZUSR9tM
 
+🔹 Install
+
+- Windows *Working
+- Linux *Not tested.
+
+Obtain the ModManager.exe file from my official github.
+
+✔️ Right-click on the ModManager.exe file.
+✔️ Select "Create shortcut" and drag the shortcut to your desktop for easier access.
+✔️ No Installation Needed:
+
+The application is self-contained. You can run it directly without installing any additional software.
+
 =============================================================
 
 ![](https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png)
