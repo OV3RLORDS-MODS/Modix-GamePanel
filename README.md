@@ -139,6 +139,16 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 
 =========================================================================================================
 
+🔹 Tools
+
+✔️ Usage Statistics – Automatically computes file counts per mod using correct mod names.
+✔️ Performance Metrics – Simulates load times, CPU usage, and memory usage trends over a 7‑day period.
+✔️ Mod Analysis – Reads each mod’s mod.info to determine its name (with fallback to modinfo.json when needed) and displays file count, size (MB), last modified date, status, and version. Double‑clicking a mod opens its folder for further inspection.
+✔️ Data Integration – All mod data is sourced directly from your workshop folder as specified in your config.json.
+
+==========================================================================
+
+
 IMPORTANT NOTICE:
 
 The Mod Manager by Modix: Server Manager is copyrighted and unauthorized redistribution or sharing is strictly prohibited. All mod-related content must remain within official channels.
