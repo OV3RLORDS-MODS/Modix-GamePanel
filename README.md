@@ -24,7 +24,7 @@ The application is self-contained. You can run it directly without installing an
 
 =============================================================
 
-![](https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png)
+![]([https://i.ibb.co/v6bPc7ZM/Screenshot-2025-02-04-9-16-20-PM.png](https://i.ibb.co/ycSD486j/Screenshot-2025-02-23-4-56-47-PM.png))
 
 🔹 Mod Manager 
 
