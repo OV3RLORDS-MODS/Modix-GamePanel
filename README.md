@@ -1,18 +1,24 @@
-This panel is packed with a wealth of features, designed to enhance your mod management and performance tracking experience. Launched in 2024 and continuously evolving under my development as OV3RLORD, it reflects my commitment to providing long-term support and improvement. With every update, the panel becomes more powerful, user-friendly, and feature-rich, ensuring it meets the needs of both casual players and dedicated modders alike. As I continue to enhance its capabilities, you can expect even more intuitive tools and detailed insights to help you manage your mods efficiently for the long haul.
+- Modix Website: https://modix.store
+- Download from github: https://github.com/OV3RLORDS-MODS/Modix-GamePanel/releases
+- Join The Community: https://discord.gg/EwWZUSR9tM
+- Help With Server Costs https://ko-fi.com/modixgamepanel
 
-Download latest: https://github.com/OV3RLORDS-MODS/Modix-Mod-Manager/releases
-
-Join The Community: https://discord.gg/SCkJTth5
-
-Help With Server Costs https://ko-fi.com/modixgamepanel
-
-Modix Website: https://modix.store
+Modix: Game Panel is an all-in-one, 100% free tool built specifically for Project Zomboid — designed from the ground up to for server management and modding. Launched in 2024 and continuously developed by OV3RLORD, Modix seamlessly combines powerful features like server control, mod management, error detection, and custom mod creation into one streamlined platform.
 
 The application is self-contained. You can run it directly without installing any additional software. Simply run it.
 
 ==========================================================================
 
-Terminal Interface: Managing your server.
+Install / Setup
+
+- Download: Get the latest version from our GitHub releases or the official website.
+- Launch: Run the Modix Game Panel on your system.
+- Access: Open your browser and navigate to http://127.0.0.1:5000/ to start using the panel.
+- Troubleshooting: If you encounter any issues accessing the panel, ensure that port 5000 is open, then restart the application.
+
+==========================================================================
+
+Terminal Interface: Managing your server. *Optional*
 
 - Sessions: You can run multiple servers at once.
 - Server Control: Start, Stop, Restart buttons.
@@ -58,6 +64,17 @@ Browse all your mod files without opening multiple windows or external file expl
 - Centralized Navigation: Browse all your mod files without opening multiple windows or external file explorers.
 - Fast Editing: Double-click any file to instantly edit in the built-in editor — or open in Visual Studio Code for advanced changes.
 - Error Prevention: The tool locks to your workshop folder from the selected game — reducing the risk of misplaced or mixed-up files.
+
+==========================================================================
+
+- Debugger
+
+- Log Analyzer: Aggregate, prioritize, and monitor Project Zomboid server logs effortlessly.
+- Multiple Log Sources: Load logs from console.txt, logs.zip, or entire server directories.
+- Error Extraction & Prioritization: Automatically detects error lines and tags them by priority:
+- Filtering & Searching: Filter errors by priority or use keyword searches and regex expressions to pinpoint issues.
+- Live Monitoring Continuously: watch log files in real-time for new errors as they appear.
+- Context Menu & Resolutions: Right-click errors to mark them resolved or open them in an external editor.
 
 ==========================================================================
 
@@ -111,16 +128,6 @@ Easily edit, merge, and package custom maps for Project Zomboid!
 - Customizable Options – Set dependencies, mod icons, and custom scripts.
 - Error & Log Tracking – Integrated logging and troubleshooting.
 
-==========================================================================
-
-- Debugger
-
-- Log Analyzer: Aggregate, prioritize, and monitor Project Zomboid server logs effortlessly.
-- Multiple Log Sources: Load logs from console.txt, logs.zip, or entire server directories.
-- Error Extraction & Prioritization: Automatically detects error lines and tags them by priority:
-- Filtering & Searching: Filter errors by priority or use keyword searches and regex expressions to pinpoint issues.
-- Live Monitoring Continuously: watch log files in real-time for new errors as they appear.
-- Context Menu & Resolutions: Right-click errors to mark them resolved or open them in an external editor.
 
 ==========================================================================
 
