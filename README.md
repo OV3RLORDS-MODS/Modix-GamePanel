@@ -1,5 +1,4 @@
 - Modix Website: https://modix.store
-- Download from github: https://github.com/OV3RLORDS-MODS/Modix-GamePanel/releases
 - Join The Community: https://discord.gg/EwWZUSR9tM
 - Help With Server Costs https://ko-fi.com/modixgamepanel
 
